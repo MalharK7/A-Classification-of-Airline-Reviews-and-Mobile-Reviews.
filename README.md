@@ -1,1 +1,2 @@
-# A-Classification-of-Airline-Reviews-and-Mobile-Reviews.
+# A-Classification-of-Airline-Reviews-and-Mobile-Reviews.\
+We Build a model with the help of machine learning models and natural language processing techniques to classify airline and mobile reviews in terms of positive, negative or neutral. We web scraped data required for airline. After text preprocessing , we used TF-IDF Vectorizer for word embedding and later used ML models like Multinomial Naive Bayes, Logistic Regression(For Mobile Reviews), SVC. The results of these models demonstrated that Support Vector Classification (SVC) outperformed the other two machine learning models in its ability to classify the reviews.
